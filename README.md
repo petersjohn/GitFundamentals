@@ -11,4 +11,5 @@ Here is a growing collection of resources and helpful commands to get to know wh
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
 - [git push](./Commands/Push.md)
-- [git push](./Commands/Pull.md)
+- [git pull](./Commands/Pull.md)
+- [git status](./Commands/Status.md)
