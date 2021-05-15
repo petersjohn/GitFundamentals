@@ -13,3 +13,4 @@ Here is a growing collection of resources and helpful commands to get to know wh
 - [git push](./Commands/Push.md)
 - [git pull](./Commands/Pull.md)
 - [git status](./Commands/Status.md)
+- [git clone](./Commands/Clone.md)
