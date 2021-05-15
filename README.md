@@ -10,3 +10,5 @@ Here is a growing collection of resources and helpful commands to get to know wh
 - [git add](./Commands/Add.md)
 - [git commit](./Commands/Commit.md)
 - [git remote](./Commands/Remote.md)
+- [git push](./Commands/Push.md)
+- [git push](./Commands/Pull.md)
